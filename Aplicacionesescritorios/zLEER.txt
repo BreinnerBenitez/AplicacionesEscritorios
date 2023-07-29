@@ -1,4 +1,4 @@
 GRACIAS POR EJECUTARLOS SOLO SON PARA MI CV COMO DEVELOPER JUNIOR SEGUIRE REALIZANDO, PERO MAS COMPLETOS.
 
-nota: en la carptea de "instalador aplicacion dialogos" encontrar el setup 
-y dentro de cada carpeta en src encontra los .java para mirarlos en un IDE de tu agrado. 
+nota: en la carptea de "instalador aplicacion dialogos" encontrara el setup 
+y dentro de cada carpeta en src encontrara los .java para mirarlos en un IDE de tu agrado. 
